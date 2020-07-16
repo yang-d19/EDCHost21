@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Drawing;
 
+//随便加点东西
+
 namespace EDC21HOST
 {
     public enum Score { PersonGetScore, BallGetScore, BallStoreScore, BallCollectScore, GoOutOfMaze, GetBackScore, Foul1, Foul2, PauseScore };
